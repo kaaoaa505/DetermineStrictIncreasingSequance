@@ -1,0 +1,16 @@
+{
+  "name": "009_determineifpossibletogetsequance",
+  "version": "1.0.0",
+  "description": "Given a sequence of integers as an array,",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
